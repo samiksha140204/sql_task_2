@@ -1,0 +1,8 @@
+job_title_id, title_name, job_description
+1,Software Engineer,"Develops, tests and maintains software systems."
+2,Data Analyst,"Collects, processes and performs statistical analyses on data."
+3,Project Manager,"Plans, executes and closes projects."
+4,UX Designer,"Designs user interfaces and experiences for software applications."
+5,DevOps Engineer,"Manages and improves the software development lifecycle."
+6,QA Engineer,"Ensures the quality of software products through testing."
+7,Business Analyst,"Analyzes business processes and recommends solutions."
