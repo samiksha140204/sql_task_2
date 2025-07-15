@@ -1,0 +1,11 @@
+job_id,job_title,min_salary,max_salary
+1,Software Engineer,70000,120000
+2,Data Scientist,80000,130000
+3,Product Manager,90000,150000
+4,UX Designer,60000,110000
+5,DevOps Engineer,75000,125000
+6,QA Engineer,55000,100000
+7,Business Analyst,65000,115000
+8,Project Manager,85000,140000
+9,Database Administrator,70000,120000
+10,Network Engineer,68000,118000
